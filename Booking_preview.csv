@@ -1,0 +1,101 @@
+﻿booking_id,booking_date,hotel,is_canceled,adults,children,meal,country,market_segment,deposit_type,agent,price,required_car_parking_spaces,reservation_status,name,email,stays_in_weekend_nights
+1,01-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,,,0,Check-Out,Ernest Barnes,Ernest.Barnes31@outlook.com,0
+2,01-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,,,0,Check-Out,Andrea Baker,Andrea_Baker94@aol.com,0
+3,02-07-2015,Resort Hotel,0,1,,BB,GBR,Direct,No Deposit,,75,0,Check-Out,Rebecca Parker,Rebecca_Parker@comcast.net,0
+4,02-07-2015,Resort Hotel,0,1,,BB,GBR,Corporate,No Deposit,304,75,0,Check-Out,Laura Murray,Laura_M@gmail.com,0
+5,03-07-2015,Resort Hotel,0,2,,BB,GBR,Online TA,No Deposit,240,98,0,Check-Out,Linda Hines,LHines@verizon.com,0
+6,03-07-2015,Resort Hotel,0,2,,BB,GBR,Online TA,No Deposit,240,98,0,Check-Out,Jasmine Fletcher,JFletcher43@xfinity.com,0
+7,03-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,,107,0,Check-Out,Dylan Rangel,Rangel.Dylan@comcast.net,0
+8,03-07-2015,Resort Hotel,0,2,,FB,PRT,Direct,No Deposit,303,103,0,Check-Out,William Velez,Velez_William@mail.com,0
+9,06-05-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,82,0,Canceled,Steven Murphy,Steven.Murphy54@aol.com,0
+10,22-04-2015,Resort Hotel,1,2,,HB,PRT,Offline TA/TO,No Deposit,15,105.5,0,Canceled,Michael Moore,MichaelMoore81@outlook.com,0
+11,23-06-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,123,0,Canceled,Priscilla Collins PhD,PhD.Priscilla74@att.com,0
+12,05-07-2015,Resort Hotel,0,2,,HB,PRT,Online TA,No Deposit,240,145,0,Check-Out,Laurie Smith,Smith.Laurie@att.com,0
+13,05-07-2015,Resort Hotel,0,2,,BB,USA,Online TA,No Deposit,240,97,0,Check-Out,Casey Thomas,Casey_T78@outlook.com,0
+14,05-07-2015,Resort Hotel,0,2,1,HB,ESP,Online TA,No Deposit,241,154.77,0,Check-Out,Rachel Friedman,Rachel.F@protonmail.com,0
+15,05-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,241,94.71,0,Check-Out,Edward Torres,Edward.T@zoho.com,0
+16,05-07-2015,Resort Hotel,0,2,,BB,IRL,Online TA,No Deposit,240,97,0,Check-Out,Samuel Zavala,Zavala_Samuel46@xfinity.com,0
+17,05-07-2015,Resort Hotel,0,2,,BB,PRT,Offline TA/TO,No Deposit,8,97.5,0,Check-Out,Dr. Victor Martin,Dr.Martin@xfinity.com,0
+18,02-07-2015,Resort Hotel,0,2,,BB,IRL,Online TA,No Deposit,240,88.2,0,Check-Out,Sara Lee,Sara.L@hotmail.com,0
+19,02-07-2015,Resort Hotel,0,2,,BB,FRA,Corporate,No Deposit,,107.42,0,Check-Out,Curtis Rodriguez,CRodriguez@verizon.com,0
+20,05-07-2015,Resort Hotel,0,2,,BB,GBR,Direct,No Deposit,250,153,0,Check-Out,Stephanie Schmidt,StephanieSchmidt@hotmail.com,0
+21,06-07-2015,Resort Hotel,0,1,,BB,GBR,Online TA,No Deposit,241,97.29,0,Check-Out,John Matthews,John.Matthews@aol.com,1
+22,07-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,250,84.67,0,Check-Out,Robert Chung,Robert.Chung47@yandex.com,2
+23,07-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,250,84.67,0,Check-Out,Mark Garcia,MGarcia16@comcast.net,2
+24,07-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,250,99.67,0,Check-Out,Brandon Taylor,BrandonTaylor@hotmail.com,2
+25,01-07-2015,Resort Hotel,0,2,,HB,GBR,Offline TA/TO,No Deposit,115,94.95,0,Check-Out,Angie Sanchez,Angie_Sanchez@att.com,2
+26,08-07-2015,Resort Hotel,0,2,,BB,PRT,Offline TA/TO,No Deposit,5,63.6,1,Check-Out,Alexis King,King_Alexis70@hotmail.com,2
+27,08-07-2015,Resort Hotel,0,2,,BB,IRL,Offline TA/TO,No Deposit,8,79.5,0,Check-Out,Michael Davidson,MichaelDavidson82@att.com,2
+28,11-05-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,107,0,Canceled,Jaime Flynn,JaimeFlynn29@gmail.com,2
+29,08-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,240,94,0,Check-Out,Mrs. Alicia Williams,Mrs..W61@yandex.com,2
+30,08-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,240,87.3,1,Check-Out,Heather Hart,Heather.H@xfinity.com,2
+31,15-07-2015,Resort Hotel,0,1,,BB,,Direct,No Deposit,,62,0,Check-Out,Diamond Wilson,Wilson.Diamond@comcast.net,4
+32,16-07-2015,Resort Hotel,0,2,,BB,GBR,Offline TA/TO,No Deposit,241,63.86,0,Check-Out,Paul Williams,Williams_Paul@xfinity.com,4
+33,29-05-2015,Resort Hotel,1,2,,BB,PRT,Direct,No Deposit,,108.3,0,Canceled,Reginald Cunningham,Reginald_C57@outlook.com,2
+34,08-07-2015,Resort Hotel,0,2,,BB,IRL,Offline TA/TO,No Deposit,175,65.5,0,Check-Out,Willie Sims,Willie_S@yahoo.com,2
+35,19-05-2015,Resort Hotel,1,3,,BB,PRT,Online TA,No Deposit,241,108.8,0,Canceled,Alex Brown,Alex.B@zoho.com,1
+36,19-06-2015,Resort Hotel,1,3,,BB,PRT,Online TA,No Deposit,241,108.8,0,Canceled,Virginia Holden,Virginia.H@aol.com,1
+37,06-07-2015,Resort Hotel,0,2,,BB,ESP,Online TA,No Deposit,240,98,0,Check-Out,John Smith,John_Smith@xfinity.com,1
+38,06-07-2015,Resort Hotel,0,3,,BB,PRT,Online TA,No Deposit,241,108.8,0,Check-Out,Jennifer Barton,JBarton@hotmail.com,1
+39,23-05-2015,Resort Hotel,1,3,,BB,PRT,Online TA,No Deposit,241,108.8,0,Canceled,Richard Holt,Richard.Holt@hotmail.com,1
+40,07-07-2015,Resort Hotel,0,2,,HB,ROU,Direct,No Deposit,250,137,0,Check-Out,Amy Green,Amy.Green56@gmail.com,2
+41,18-05-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,241,117.81,0,Canceled,Kimberly Perez,Perez.Kimberly84@hotmail.com,2
+42,07-07-2015,Resort Hotel,0,2,,BB,IRL,Offline TA/TO,No Deposit,8,79.5,0,Check-Out,Carly Armstrong,CArmstrong@mail.com,2
+43,07-07-2015,Resort Hotel,0,2,,BB,ESP,Direct,No Deposit,,123,0,Check-Out,Scott Hammond,ScottHammond41@verizon.com,2
+44,07-07-2015,Resort Hotel,0,2,,HB,ROU,Direct,No Deposit,250,137,0,Check-Out,Debra Fuller,Debra.Fuller@protonmail.com,2
+45,09-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,240,110.7,0,Check-Out,Rachel Davis,RachelDavis@mail.com,2
+46,02-06-2015,Resort Hotel,1,2,2,BB,PRT,Online TA,No Deposit,240,153,0,Canceled,Michael Mccormick,Mccormick.Michael19@aol.com,2
+47,09-07-2015,Resort Hotel,0,2,,BB,ESP,Offline TA/TO,No Deposit,134,58.95,0,Check-Out,Ann Sullivan,AnnSullivan@att.com,2
+48,09-07-2015,Resort Hotel,0,2,,BB,NOR,Offline TA/TO,No Deposit,156,82.88,0,Check-Out,Rachel Wallace,Rachel_W79@xfinity.com,2
+49,09-07-2015,Resort Hotel,0,2,,HB,GBR,Offline TA/TO,No Deposit,243,82.35,0,Check-Out,Carla Ferguson,Carla_Ferguson@att.com,2
+50,09-07-2015,Resort Hotel,0,2,,HB,IRL,Online TA,No Deposit,241,119.35,0,Check-Out,Greg Hardin,Hardin_Greg@gmail.com,2
+51,09-07-2015,Resort Hotel,0,2,,BB,NOR,Offline TA/TO,No Deposit,156,67.58,0,Check-Out,Rachel Ho,Ho_Rachel74@aol.com,2
+52,13-07-2015,Resort Hotel,0,2,,BB,IRL,Offline TA/TO,No Deposit,156,56.01,0,Check-Out,Elizabeth Joseph,Joseph_Elizabeth@yandex.com,3
+53,16-07-2015,Resort Hotel,0,2,,BB,OMN,Offline TA/TO,No Deposit,243,110.7,0,Check-Out,Stephen Brown,Stephen.Brown@att.com,4
+54,03-07-2015,Resort Hotel,0,2,,BB,ESP,Online TA,No Deposit,240,88.2,1,Check-Out,Scott Ward,Scott_Ward11@hotmail.com,0
+55,03-07-2015,Resort Hotel,0,2,,BB,ARG,Online TA,No Deposit,240,147,1,Check-Out,Derrick Bailey,Derrick_Bailey@protonmail.com,0
+56,03-07-2015,Resort Hotel,0,2,2,BB,ESP,Direct,No Deposit,,107,1,Check-Out,Jessica Cole,Jessica_Cole@yahoo.com,0
+57,03-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,,147,0,Check-Out,Reginald Russo,Russo.Reginald65@comcast.net,0
+58,03-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,240,117.9,0,Check-Out,William Sanchez,William.Sanchez@mail.com,0
+59,03-07-2015,Resort Hotel,0,2,,BB,PRT,Direct,No Deposit,,123,0,Check-Out,Diane Rose,Diane.Rose@protonmail.com,0
+60,04-07-2015,Resort Hotel,0,2,,BB,USA,Online TA,No Deposit,242,98,0,Check-Out,Nathan Smith,Nathan_Smith@comcast.net,0
+61,04-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,241,117.81,0,Check-Out,Andrew Bullock,AndrewBullock17@hotmail.com,0
+62,04-07-2015,Resort Hotel,0,2,,BB,IRL,Online TA,No Deposit,240,135,1,Check-Out,Nancy Mccormick,Nancy.M@protonmail.com,0
+63,05-07-2015,Resort Hotel,0,2,,BB,ESP,Direct,No Deposit,250,133,0,Check-Out,Barbara Cole,Barbara.Cole@hotmail.com,0
+64,05-07-2015,Resort Hotel,0,2,,BB,IRL,Offline TA/TO,No Deposit,115,58.95,0,Check-Out,Sheri Aguilar,Aguilar.Sheri22@att.com,0
+65,29-06-2015,Resort Hotel,1,2,,HB,PRT,Online TA,No Deposit,240,136.33,0,Canceled,Sandra Graham,Sandra_Graham@xfinity.com,0
+66,05-07-2015,Resort Hotel,0,2,2,BB,USA,Online TA,No Deposit,240,153,1,Check-Out,Christopher Cabrera,Cabrera.Christopher@yahoo.com,0
+67,05-07-2015,Resort Hotel,0,2,,BB,ESP,Online TA,No Deposit,240,110.5,0,Check-Out,Melinda Flores,Flores_Melinda@yahoo.com,0
+68,05-07-2015,Resort Hotel,0,2,,BB,POL,Online TA,No Deposit,242,97,0,Check-Out,Michael Whitehead,Michael.W@mail.com,0
+69,16-06-2015,Resort Hotel,1,3,,BB,PRT,Offline TA/TO,No Deposit,242,110.3,0,Canceled,Brent Hamilton,Brent.Hamilton15@gmail.com,0
+70,18-06-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,82,0,Canceled,Jessica Bradford,JBradford@outlook.com,0
+71,03-07-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,97,0,Canceled,Marissa Robinson,MarissaRobinson@mail.com,0
+72,12-06-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,73.8,0,Canceled,Jennifer Curry,Jennifer_Curry@hotmail.com,0
+73,05-07-2015,Resort Hotel,0,2,,HB,PRT,Offline TA/TO,No Deposit,3,91.5,0,Check-Out,Teresa Maldonado,Maldonado_Teresa95@protonmail.com,0
+74,05-07-2015,Resort Hotel,0,2,,BB,ESP,Online TA,No Deposit,240,114.5,0,Check-Out,Bryan Perez,BryanPerez@gmail.com,0
+75,09-06-2015,Resort Hotel,1,3,,BB,PRT,Online TA,No Deposit,242,110.3,0,Canceled,Timothy Horn,Timothy.H@yandex.com,0
+76,06-07-2015,Resort Hotel,0,2,,BB,ESP,Online TA,No Deposit,240,90.9,1,Check-Out,Angela Williams,Angela.Williams@xfinity.com,1
+77,26-05-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,123,0,Canceled,Lee Ramirez MD,LMD@yahoo.com,1
+78,07-07-2015,Resort Hotel,0,1,,BB,PRT,Online TA,No Deposit,240,122,0,Check-Out,Allen Hoffman,AHoffman@protonmail.com,2
+79,07-07-2015,Resort Hotel,0,2,,BB,DEU,Offline TA/TO,No Deposit,105,110.7,1,Check-Out,Michael Yu,Michael_Yu59@comcast.net,2
+80,11-07-2015,Resort Hotel,0,3,,BB,PRT,Offline TA/TO,No Deposit,5,85.86,0,Check-Out,Anthony Moss,Anthony_Moss18@yandex.com,2
+81,12-07-2015,Resort Hotel,0,2,,BB,FRA,Offline TA/TO,No Deposit,40,58.95,0,Check-Out,Tony Olson,Tony_O@outlook.com,2
+82,19-05-2015,Resort Hotel,1,2,,BB,PRT,Offline TA/TO,No Deposit,40,55.68,0,Canceled,Clayton Cowan,Clayton.Cowan31@protonmail.com,3
+83,13-07-2015,Resort Hotel,0,2,,BB,GBR,Offline TA/TO,No Deposit,40,55.68,0,Check-Out,Mrs. Debra Jackson DDS,DDS_Mrs.@att.com,3
+84,09-06-2015,Resort Hotel,1,2,,HB,PRT,Direct,No Deposit,250,124,0,Canceled,Raymond Young,Young.Raymond92@verizon.com,3
+85,13-07-2015,Resort Hotel,0,2,,HB,GBR,Offline TA/TO,No Deposit,115,111.15,0,Check-Out,Lisa Schroeder,Schroeder.Lisa@comcast.net,3
+86,17-07-2015,Resort Hotel,0,2,,HB,GBR,Offline TA/TO,No Deposit,40,134.73,0,Check-Out,Kristin Roberts,Kristin_Roberts56@protonmail.com,4
+87,17-07-2015,Resort Hotel,0,2,,BB,GBR,Online TA,No Deposit,241,92.45,0,Check-Out,Howard Williams,Howard_W@outlook.com,4
+88,15-04-2015,Resort Hotel,1,2,1,BB,PRT,Offline TA/TO,No Deposit,242,108.73,0,Canceled,Jennifer Murphy,Murphy.Jennifer59@yandex.com,6
+89,04-07-2015,Resort Hotel,0,2,,BB,GBR,Online TA,No Deposit,240,73.8,0,Check-Out,Joshua Delacruz,JoshuaDelacruz@outlook.com,0
+90,04-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,240,98,1,Check-Out,Colleen Murphy,Colleen.Murphy@mail.com,0
+91,04-07-2015,Resort Hotel,0,2,,BB,ESP,Online TA,No Deposit,240,131,0,Check-Out,Rebecca Hebert,RHebert34@zoho.com,0
+92,04-07-2015,Resort Hotel,0,2,,BB,PRT,Online TA,No Deposit,240,123,0,Check-Out,Robert Campbell,RCampbell@verizon.com,0
+93,04-07-2015,Resort Hotel,0,2,,BB,USA,Online TA,No Deposit,241,94.71,0,Check-Out,Matthew Lang,Lang_Matthew34@hotmail.com,0
+94,04-07-2015,Resort Hotel,0,2,,BB,BEL,Online TA,No Deposit,240,123,0,Check-Out,David Mcgee,David_M@aol.com,0
+95,26-05-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,123,0,Canceled,Jill Key,JillKey89@att.com,0
+96,29-06-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,240,73.8,0,Canceled,Nicole Campbell,NicoleCampbell26@zoho.com,0
+97,13-05-2015,Resort Hotel,1,2,,BB,PRT,Online TA,No Deposit,242,117,0,Canceled,James Hill,Hill.James@mail.com,2
+98,10-07-2015,Resort Hotel,0,3,,HB,ESP,Offline TA/TO,No Deposit,105,196.54,0,Check-Out,Daniel Richard,Daniel_R@xfinity.com,2
+99,10-07-2015,Resort Hotel,0,2,1,BB,PRT,Online TA,No Deposit,240,99.3,1,Check-Out,Jacob Porter,Porter_Jacob@verizon.com,2
+100,10-07-2015,Resort Hotel,0,2,,BB,DEU,Direct,No Deposit,250,90.95,0,Check-Out,Susan Wilson,Wilson_Susan@comcast.net,2
